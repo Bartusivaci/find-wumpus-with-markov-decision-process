@@ -1,8 +1,6 @@
-# Repository for ss24.2.3/team136
+# Repository for AI Project 2.3
 
-This is the repository for you solution. You can modify this README file any way you see fit.
-
-**Topic:** WS2324 Assignment 2.3: Wumpus Quest
+**Topic:** WS2324 Assignment 2.3: [Wumpus Quest](https://kwarc.info/teaching/AISysProj/SS24/assignment-2.3.pdf)
 
 # Wumpus World Agent
 
